@@ -5,3 +5,4 @@
 - hnf
 - proposer à la CNIL le droit à la suppression de toute information personnelle contenue chez un hébergeant, que l'information personnelle soit sauvegardée sur notre compte de l'hebergeur OU SUR LE COMPTE D'UN TIER DE L'HEBERGEUR ; l'hebergeant pourra/devra utiliser l'IA pour vérifier/retrouver les photos de la personne qui veut supprimer ses données personnelles.
 - Demander à Unicode des nouveaux caracteres grecs pour l'onciale grecque ; en parler à Caleb Maclennan
+- faire le mdbook epi.rs : epi.rs l'écosytème Rustique d'Epita.
