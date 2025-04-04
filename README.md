@@ -8,3 +8,4 @@
 - avoir une I.A qui aide à mettre à jour mon statut (cf. mon repo statut), par exemple avoir une app dans laquelle je dicte avec ma voix ce que j'ai fais j'y joint une photo, et l'I.A enregistre tout ça, synthétise ou reformule s'il le faut et met à jour le statut.
 - faire le mdbook epi.rs : epi.rs l'écosytème Rustique d'Epita.
 - marque de bijoux ? collier pour femme ?
+- l'IA : Ben
