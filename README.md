@@ -9,3 +9,7 @@
 - faire le mdbook epi.rs : epi.rs l'écosytème Rustique d'Epita.
 - marque de bijoux ? collier pour femme ?
 - l'IA : Ben
+
+
+## hnf :
+- ajouter les CSP
