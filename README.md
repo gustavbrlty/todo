@@ -12,7 +12,7 @@
 
 
 ## hnf :
-- installer et faire fonctionner scylladb (la dernière version ;) ) sur NixOS.
+- installer et faire fonctionner scylladb (avec la dernière version de son biding Rust ;) ) sur NixOS.
 - revoir la PRG en raison de la failure Lighthouse au niveau du cache.
 - réussir à faire fonctionner le certificat pour HTTP 3.
 - ajouter les CSP
