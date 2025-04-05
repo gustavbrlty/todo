@@ -12,4 +12,5 @@
 
 
 ## hnf :
+- réussir à faire fonctionner le certificat pour HTTP 3.
 - ajouter les CSP
