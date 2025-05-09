@@ -1,5 +1,5 @@
 # todo
-
+- avoire une deuxieme yubikey et la configurer pour google, outlook, github, apple, Discord, X, facebook ; puis enlever toutes les autres méthodes d'authentification (mobile, etc.) pour rendre les authentification plus sécurisées. 
 - une IA qui écrit, à partir d'une simple description de dépendences, un Dockerfile **fonctionnelle** et, par la suite, le plus optimisé possible (càd, si libre de le faire, utiliser la dernière version des paquets/images, installer le moins de paquet possible, choisissant dans la mesure du possible les paquets les plus légers et les plus rapides, et ceux ayant le moins de vulnérabilité connues)
 - stdx
 - hnf
