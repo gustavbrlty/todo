@@ -11,6 +11,7 @@
 - marque de bijoux ? collier pour femme ?
 - l'IA : Ben
 - pouvoir faire du scripting avec Rust, https://chatgpt.com/share/68136606-05dc-8005-8fc7-9bb2366b4834
+- faire une serrure de porte non pour clé classique mais pour clé de sécurité (ex: yubikey) :) 
 
 
 ## hnf :
