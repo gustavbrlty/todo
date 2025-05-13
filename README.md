@@ -13,6 +13,8 @@
 - pouvoir faire du scripting avec Rust, https://chatgpt.com/share/68136606-05dc-8005-8fc7-9bb2366b4834
 - faire une serrure de porte non pour clé classique mais pour clé de sécurité (ex: yubikey) :) ça rendrait la serrure plus secure (clé + mot de passe au lieu de clé toute seule ; et ça permettrait de pouvoir laisser une clé à qqun sans que celui-ci puisse ouvrir la porte pour autant (du fait qu'il n'ait pas le PIN)) et ça permettrait d'avoir une même clé à la fois pour rentrer chez soi et à la fois pour les credentials dans le monde numérique, donc moins de clés sur le porte clé.
 - creer des boxs types point Pickup mais non pas pour livrer des colis mais pour stocker des serveurs.
+- creer un programme qui permet de partager l'authentification wifi pour les systemes linux (comme ca existe deja pour les iPhones), juste en partageant un fichier par exemple, et surtout que cela puisse fonctionner pour les hotspots temporaire.
+- creer un programme informatique qui donne une signature mais plus au bit pres, un peu comme les fonctions equivalentes en math
 
 
 ## hnf :
