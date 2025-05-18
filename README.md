@@ -24,5 +24,4 @@
 - réussir à faire fonctionner le certificat pour HTTP 3.
 - ajouter les CSP
 - NixOS : décrypter le disque dur par Yubikey.
-- NixOS : ajouter la disposition du clavier quand NixOS attend la passphrase pour décrypter le disque.
 - Ajouter des APIs pour Siri,  ChatGPT, etc. ?
