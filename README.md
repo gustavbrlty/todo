@@ -25,6 +25,7 @@
 - ajouter les CSP
 - NixOS : décrypter le disque dur par Yubikey.
 - Ajouter des APIs pour Siri,  ChatGPT, etc. ?
+- créer des I.A (par exemple 1000) qui imitent des humains : càd qui recherche chacune quelqu'un en particulier ; en guise de test.
 
 - connexion et deconnexion niquel chrome : fonctionnement parfait + parfaitement securisee (gestion des tentatives de brute force, ddos, etc.).
 - gestion parfaite des credentials : utiliser un ID pour chaque utilisateur ? hasher le mot de passe ? quel type dans la db etc.
