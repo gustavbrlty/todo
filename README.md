@@ -25,3 +25,8 @@
 - ajouter les CSP
 - NixOS : décrypter le disque dur par Yubikey.
 - Ajouter des APIs pour Siri,  ChatGPT, etc. ?
+
+- connexion et deconnexion niquel chrome : fonctionnement parfait + parfaitement securisee (gestion des tentatives de brute force, ddos, etc.).
+- gestion parfaite des credentials : utiliser un ID pour chaque utilisateur ? hasher le mot de passe ? quel type dans la db etc.
+- inscription : gestion de l'envoi de mail.
+- 
