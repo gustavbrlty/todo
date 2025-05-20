@@ -15,7 +15,7 @@
 - creer des boxs types point Pickup mais non pas pour livrer des colis mais pour stocker des serveurs.
 - creer un programme qui permet de partager l'authentification wifi pour les systemes linux (comme ca existe deja pour les iPhones), juste en partageant un fichier par exemple, et surtout que cela puisse fonctionner pour les hotspots temporaire.
 - creer un programme informatique qui donne une signature mais plus au bit pres, un peu comme les fonctions equivalentes en math
-- creer un programme qui genere l'algorithme d'un programme (afin de pouvoir facilement/directement verifier l'algorithme utiliser pour que le programme repond aux besoin de 'utilisateur : l'algorithme est-il le plus performant ? est-il sur ?)
+- creer un programme qui genere l'algorithme d'un programme (afin de pouvoir facilement/directement verifier l'algorithme utiliser pour que le programme repond aux besoin de 'utilisateur : l'algorithme est-il le plus performant ? est-il sur ?) voir la conference de l'owasp de septembre 2025, elle parlera de ca normalement
 - faire un pdf etudiant la securite de Tailscale pour un particulier ou une entreprise.
 
 ## hnf :
