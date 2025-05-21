@@ -19,7 +19,7 @@
 - faire un pdf etudiant la securite de Tailscale pour un particulier ou une entreprise.
 
 ## hnf :
-- verifier qu'on utilise bien la derniere version du binding Rust scylla + essayer de lier la config Docker a la config Nix (ex: pkgs.dockerTools.buildImage?)?
+- verifier qu'on utilise bien la derniere version du binding Rust scylla + essayer de lier la config Docker a la config Nix (ex: pkgs.dockerTools.buildImage? switch to Quadlet (https://www.reddit.com/r/NixOS/comments/1ko69fz/goodbye_docker_hello_quadlet/)?)?
 - revoir la PRG en raison de la failure Lighthouse au niveau du cache.
 - réussir à faire fonctionner le certificat pour HTTP 3.
 - ajouter les CSP
