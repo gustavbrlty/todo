@@ -30,4 +30,4 @@
 - connexion et deconnexion niquel chrome : fonctionnement parfait + parfaitement securisee (gestion des tentatives de brute force, ddos, etc.).
 - gestion parfaite des credentials : utiliser un ID pour chaque utilisateur ? hasher le mot de passe ? quel type dans la db etc.
 - inscription : gestion de l'envoi de mail.
-- 
+- dire au public qu'ils peuvent proposer leur idée d'amélioration, en échange de quoi ils seront rémunéré si leurs modifications suggérés ont été faite.
