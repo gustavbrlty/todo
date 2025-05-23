@@ -32,4 +32,4 @@
 - inscription : gestion de l'envoi de mail.
 - dire au public qu'ils peuvent proposer leur idée d'amélioration, en échange de quoi ils seront rémunéré si leurs modifications suggérés ont été faite.
 
-- plus tard : engager des professionnelles de la base de données (ou former des apprentis à cela afin qu'il puissent gérer cela (car secteur d'activtité nouveau)) pour gérer tout ce qui est scaling (bucketing, compaction/sstable, etc.) et optisation (ex: order by sur de définitons de table ?)
+- plus tard : engager des professionnelles de la base de données (ou former des apprentis à cela afin qu'il puissent gérer cela (car secteur d'activtité nouveau)) pour gérer tout ce qui est scaling (bucketing, compaction/sstable, etc.) et optisation (ex: clustering order by sur de définitons de table ?)
