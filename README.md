@@ -17,6 +17,7 @@
 - creer un programme informatique qui donne une signature mais plus au bit pres, un peu comme les fonctions equivalentes en math
 - creer un programme qui genere l'algorithme d'un programme (afin de pouvoir facilement/directement verifier l'algorithme utiliser pour que le programme repond aux besoin de 'utilisateur : l'algorithme est-il le plus performant ? est-il sur ?) voir la conference de l'owasp de septembre 2025, elle parlera de ca normalement
 - faire un pdf etudiant la securite de Tailscale pour un particulier ou une entreprise.
+- site de course de produits Yuka exclusivement 100/100
 
 ## hnf :
 - verifier qu'on utilise bien la derniere version du binding Rust scylla + essayer de lier la config Docker a la config Nix (ex: pkgs.dockerTools.buildImage? switch to Quadlet (https://www.reddit.com/r/NixOS/comments/1ko69fz/goodbye_docker_hello_quadlet/)?)?
